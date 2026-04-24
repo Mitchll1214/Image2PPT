@@ -67,7 +67,7 @@ python image2ppt.py
 
 ```
 Image2PPT/
-├── main.py          # 主程序
+├── image2ppt.py          # 主程序
 ├── README.md             # 说明文档
 └── requirements.txt      # 依赖列表
 ```
